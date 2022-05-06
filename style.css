@@ -282,7 +282,7 @@ body.menu-expanded button path {
   /*É o fundo verdinho que fica atras de tudo*/
   content: '';
   width: 100%;
-  height: calc(76% + var(--nav-height));
+  height: calc(175% + var(--nav-height));
   background-color: var(--brand-light);
   display: block;
 
